@@ -1,8 +1,7 @@
 ﻿# NAIT Theory Plover Dictionary
 This is an edit of Plover's default dictionary to align with NAIT theory, for use at home instead of paying for a CaseCat subscription.
 ## Requirements
-plover-retro-format (to emulate CaseCat number formatting for `TOIM` and `FOIM`)\
-plover-merge-words (to emulate CaseCat removal of second period in a.m. and p.m.)
+plover-retro-format (to emulate CaseCat number formatting for `TOIM` and `FOIM`)
 ## Changes
 Plover does not allow for one outline to do both initial and final quote -- you can either leave `KW-T` as is (and have spaces around both sides of the quote to clean up later) or use default Plover `KW-GS` (initial) and `KR-GS` (final). \
 (At the time of writing, you will be docked marks on your notes if you use `KW-GS`/`KR-GS` on tests. Be careful, learn both!)\
